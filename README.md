@@ -1,5 +1,6 @@
-#Untuk struktur repository 
-#Semua File audio ada di root
-#File notebook Jupyter ada di root
-#File PDF ada di root
-#Dan lampiran ada di root
+## 📂 Struktur Repository
+Semua file penting ditempatkan langsung di **root directory** 
+
+
+## How to Run
+Untuk menjalakan Code cukup untuk membuka Jupyter notebook dan langsung menjalakan program
